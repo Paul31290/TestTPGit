@@ -1,4 +1,0 @@
-//Coucou!
-
-int b = 2;
-System.out.println(b);
